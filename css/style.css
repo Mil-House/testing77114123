@@ -23,14 +23,15 @@
     }
 }
 */
-
-@media screen and (display-mode: standalone) /*and (max-width: 767px)*/
+/*
+@media screen and (display-mode: standalone) /*and (max-width: 767px)
 {
     header {
         margin-top: -20px;
         padding-top: 20px;
     }
 }
+*/
 
 @keyframes load {
     0% {
