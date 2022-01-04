@@ -8,15 +8,6 @@
 }
 */
 
-@media screen and (display-mode: standalone) /*and (max-width: 767px)*/
-{
-    header {
-        margin-top: -3px;
-        padding-top: 3px;
-    }
-}
-
-
 @keyframes load {
     0% {
         opacity: 0.08;
