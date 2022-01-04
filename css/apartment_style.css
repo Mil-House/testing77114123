@@ -7,11 +7,11 @@
     display: none; 
 }
 */
-
-@media screen and (display-mode: standalone) /*and (max-width: 767px)*/
+/*
+@media screen and (display-mode: standalone) /*and (max-width: 767px)/
 {
     header {
-        /*height: 20px !important;*/ /*4.8rem*/ /*5.55rem 12px = 0.75rem*/
+        /*height: 20px !important;*/ /*4.8rem*/ /*5.55rem 12px = 0.75rem/
         padding-top: 25px;
     }
 
@@ -19,6 +19,7 @@
         padding-top: 25px;
     }
 }
+*/
 
 @keyframes load {
     0% {
